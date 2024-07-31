@@ -6,7 +6,6 @@
  */
 get_header();
 ?>
-
 <main id="main" class="main-content" role="main">
     <div id="<?php echo esc_attr(get_the_ID());?>" class="row main-row">
         <div class="page-wrap content-wrap col-lg-9">
